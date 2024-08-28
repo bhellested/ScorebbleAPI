@@ -1,0 +1,8 @@
+
+#ignore all .DS_Store files
+.DS_Store
+images
+venv
+__pycache__/
+*.py[cod]
+*$py.class
